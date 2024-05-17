@@ -37,7 +37,7 @@ nav li {
     line-height: 40px;
     height: 40px;
     display: inline-block;
-    margin: 1.25%;
+    margin: 2.5%;
 }
 
 nav a {
@@ -45,4 +45,8 @@ nav a {
     color: black;
     display: block;
 
+}
+
+nav a:hover {
+    color: #4a4a4f;
 }
