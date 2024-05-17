@@ -1,13 +1,13 @@
 .home {
-    background-color: blueviolet;
+    background-color: #8a2be2;
 }
 
 .base {
-    background-color: rgb(145, 57, 27);
+    background-color: #260d77;
 }
 
 .group {
-    background-color: #123524;
+    background-color: #20a263;
 }
 
 body {
@@ -44,7 +44,6 @@ nav a {
     text-decoration: dotted;
     color: black;
     display: block;
-
 }
 
 nav a:hover {
@@ -58,6 +57,7 @@ nav a:hover {
 }
 
 .intro {
-    border-style: dotted;
-    border-color: white;
+    text-decoration: dotted;
+    color: white;
+    display: block;
 }
