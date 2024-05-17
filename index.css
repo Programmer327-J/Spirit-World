@@ -50,3 +50,14 @@ nav a {
 nav a:hover {
     color: #4a4a4f;
 }
+
+ img{
+    height: 250px;
+    width: 250px;
+    right: auto;
+}
+
+.intro {
+    border-style: dotted;
+    border-color: white;
+}
