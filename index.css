@@ -1,0 +1,25 @@
+.home {
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+
+.base {
+    background-color: rgb(145, 57, 27);
+    margin: 0;
+    padding: 0;
+}
+
+.group {
+    background-color: #123524;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
