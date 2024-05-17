@@ -26,7 +26,7 @@ p {
 
 nav ul {
     list-style: none;
-    background-color: white;
+    background-color: thistle;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -36,6 +36,13 @@ nav li {
     font-size: 40px;
     line-height: 40px;
     height: 40px;
+    display: inline-block;
+    margin: 1.25%;
+}
+
+nav a {
+    text-decoration: dotted;
     color: black;
+    display: block;
 
 }
